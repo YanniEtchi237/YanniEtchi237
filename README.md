@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I am Yanni Etchi
 # 💫 About Me:
-I'm a dedicated computer science and applied mathematics student at The University of North Carolina at Chapel Hill, deeply passionate about the realms of data science and machine learning<br><br>🤔 Interests : <br>- Natural Language Processing<br>- Deep Learning for Image Processing<br><br><br>💻What Im up to : <br>- Exploring machine learning with scikit-learn<br>- Conducting research in data science lab at UNC Chapel Hill      
+I'm a dedicated computer science and applied mathematics student at The University of North Carolina at Chapel Hill, deeply passionate about the realms of data science and machine learning<br><br>🤔 Interests : <br>- Natural Language Processing<br>- Deep Learning for Image Processing<br><br><br>💻What Im up to : <br>- Exploring machine learning with scikit-learn<br>- Studying and conducting research at UNC Chapel Hill   
 
 
 ## 🌐 Socials:
